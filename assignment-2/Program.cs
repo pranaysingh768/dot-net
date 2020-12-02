@@ -27,7 +27,7 @@ namespace assignment2
             Console.WriteLine("-----------------");
             m1.display();
             m2.display();
-            Console.WriteLine("-----------------");
+            Console.WriteLine("------------------");
             c1.display();
             c2.display();
 
