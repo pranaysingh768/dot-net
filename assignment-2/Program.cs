@@ -30,11 +30,6 @@ namespace assignment2
             Console.WriteLine("------------------");
             c1.display();
             c2.display();
-
-
-
-
-
         }
     }
 
